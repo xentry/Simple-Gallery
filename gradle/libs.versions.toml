@@ -15,7 +15,7 @@ room = "2.6.0-beta01"
 #Simple tools
 simple-commons = "9e60e24790"
 #Gradle
-gradlePlugins-agp = "7.4.0"
+gradlePlugins-agp = "8.7.3"
 #Other
 androidGifDrawable = "1.2.25"
 androidImageCropper = "4.5.0"
@@ -27,8 +27,6 @@ gestureviews = "a8e8fa8d27"
 androidsvgAar = "1.4"
 imagefilters = "1.0.7"
 sanselan = "0.97-incubator"
-sdkVideowidget = "1.180.0"
-sdkPanowidget = "1.180.0"
 media3Exoplayer = "1.1.0"
 okhttp = "4.9.0"
 okio = "3.0.0"

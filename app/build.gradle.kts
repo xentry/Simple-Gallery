@@ -109,6 +109,7 @@ dependencies {
     implementation(libs.androidx.media3.exoplayer)
     implementation(files("libs/sdk-panowidget-1.180.0.aar"))
     implementation(files("libs/sdk-videowidget-1.180.0.aar"))
+    implementation(files("libs/sdk-commonwidget-1.180.0.aar"))
     implementation(libs.sanselan)
     implementation(libs.imagefilters)
     //implementation(files("libs/imagefilters-1.0.7.aar"))
